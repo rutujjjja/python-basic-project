@@ -1,2 +1,2 @@
 # python-basic-project
-"This is my basic python sunmission"
+"This is my basic python submission"
